@@ -63,7 +63,7 @@ A full-stack **MERN application** that allows students to **register, log in, an
       ```Bash
           npm run dev
 
-### Backend Setup
+### Frontend Setup
     ``` Bash 
         cd Frontend/StudentTask
 
