@@ -72,3 +72,6 @@ A full-stack **MERN application** that allows students to **register, log in, an
 ### Start the server
       ```Bash
           npm run dev
+### POSTMAN API
+  ![POSTMAN](  https://vermamavish12035-295181.postman.co/workspace/Shivam-verma's-Workspace~9aaacb11-0593-4836-894e-ff87d5f3b7b2/request/52580802-ddc720a5-bcc9-437c-9c9d-7d9c35b7591b?action=share&creator=52580802&ctx=documentation)
+
